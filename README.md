@@ -43,7 +43,7 @@ My work sits at the intersection of mechanical design and controls — I care ab
 - 🎓 Finishing MSc thesis — impedance controller for HRI on Franka FR3 (ROS2)
 - 📚 Learning: C++, Siemens TIA Portal / IEC 61131-3 PLC programming
 - 🇩🇪 Improving German (B1 → B2)
-- 🔍 Open to roles in **robotics, controls & automation, power electronics** in Munich from October 2026
+- 🔍 Open to roles in **robotics, controls & automation, power electronics** from October 2026
 
 ---
 
