@@ -1,6 +1,6 @@
 # Hi, I'm Sergi 👋
 
-**Mechanical engineer** with 2 years of industry experience, finishing an **MSc in Industrial Automation Engineering** at the University of Pavia (2026). Based in Pavia, moving to **Munich** in October 2026.
+**Mechanical engineer** with 2 years of industry experience, finishing an **MSc in Industrial Automation Engineering** at the University of Pavia (2026). 
 
 My work sits at the intersection of mechanical design and controls — I care about building systems that work in the real world, not just in simulation.
 
